@@ -1,85 +1,131 @@
-<h1 align="center">Hi, I'm Rahul Patel 👋</h1>
+# Rahul Patel — Founder · Product Builder · Engineering Leader
 
 <p align="center">
-  <b>Tech Lead & Full-Stack Engineer</b> · 12+ Years · Remote-Ready
+  <a href="https://rahhuul.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://apilens.rest">
+    <img src="https://img.shields.io/badge/APILens-Explore%20the%20product-2563EB?style=for-the-badge" alt="APILens" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahhuul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://rahhuul.github.io">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/rahhuul">💼 LinkedIn</a> ·
-  <a href="https://dev.to/rahhuul">✍️ Dev.to</a> ·
-  <a href="https://npmjs.com/package/auto-api-observe">📦 npm</a> ·
-  <a href="mailto:rahul.patel786@gmail.com">📧 Email</a>
-</p>
+I turn engineering problems into software products.
+
+I'm a software engineer and technical leader with **12+ years of experience** building web applications, backend systems, developer tools, and SaaS products.
+
+Today, I'm focused on building products through **HireDev Technologies** — including APILens, an API observability platform, and open-source tools that make developers more productive.
+
+I care about more than shipping code. I care about solving the right problem, making systems easier to understand, and building software that can evolve.
 
 ---
 
-### 🚀 About Me
+## What I'm building
 
-- 🔭 Currently building **[auto-api-observe](https://npmjs.com/package/auto-api-observe)** zero-config API observability middleware for Express & Fastify
-- 💼 12+ years across **web, mobile & blockchain** platforms
-- 🧑‍💻 Tech Lead experience managing teams of 7-10 developers
-- 🌍 Based in **Ahmedabad, India** · Open to **Remote Roles Worldwide**
-- ⚡ Fun fact: I've written more `console.log` statements than anyone should admit
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://apilens.rest">APILens</a></h3>
+      <p><strong>Understand what your APIs are doing.</strong></p>
+      An API observability product for developers who need better visibility into API behavior, performance, and errors.</p>
+      <p>
+        <a href="https://apilens.rest">Explore APILens →</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/rahhuul/auto-api-observe">auto-api-observe</a></h3>
+      <p><strong>API visibility with minimal setup.</strong></p>
+      Zero-dependency observability middleware for Express and Fastify, built to help developers inspect requests and investigate slow operations.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/auto-api-observe">View on npm →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/rahhuul/cms-mcp-hub">CMS MCP Hub</a></h3>
+      <p><strong>Connect AI assistants to CMS platforms.</strong></p>
+      An open-source collection of MCP servers covering 12 CMS platforms and 757 tools, helping AI clients work with content and commerce systems.</p>
+      <p>
+        <a href="https://github.com/rahhuul/cms-mcp-hub">Explore the source →</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Engineering & SaaS</h3>
+      <p><strong>From architecture to production.</strong></p>
+      I enjoy solving backend complexity, designing maintainable systems, improving developer workflows, and turning ideas into usable software.</p>
+      <p>
+        <a href="https://rahhuul.github.io">Explore my portfolio →</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+## How I create value
+
+- **Product engineering:** Turn an idea or business problem into a working, maintainable product.
+- **Backend architecture:** Design APIs, data models, integrations, and background processing for real-world workloads.
+- **Developer tooling:** Reduce friction in debugging, observability, and repetitive engineering workflows.
+- **AI integrations:** Connect AI assistants to tools and existing systems through MCP and structured integrations.
+- **Technical leadership:** Make architecture decisions, guide engineers, and help teams deliver with clarity.
+
+## My engineering toolkit
+
+**Backend & APIs**
+
+`Node.js` · `TypeScript` · `PHP` · `Laravel` · `Express` · `Fastify` · `REST` · `GraphQL`
 
 **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+`React` · `Next.js` · `JavaScript` · `Tailwind CSS`
 
-**Database & Cloud**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Data & infrastructure**
 
-**Blockchain**
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Docker` · `AWS`
+
+**AI & integrations**
+
+`Model Context Protocol (MCP)` · `AI tool integrations` · `CMS APIs` · `Automation`
+
+I choose technologies based on the problem, the constraints, and the people who will maintain the solution.
 
 ---
 
-### 📦 Featured Project
+## A little about my approach
 
-#### [auto-api-observe](https://github.com/rahhuul/auto-api-observe)
-> Zero-config API observability middleware for **Express** & **Fastify**
+I believe good engineering should make complex systems easier to understand.
 
-- ✅ Structured logging & distributed tracing via AsyncLocalStorage
-- ✅ Slow request detection & DB call tracking
-- ✅ Full TypeScript support
-- ✅ Zero dependencies
-```bash
-npm install auto-api-observe
-```
+That means clear architecture, useful observability, sensible abstractions, reliable integrations, and documentation that helps the next person succeed.
+
+I enjoy building my own products because it forces me to think beyond implementation: the problem, the user experience, reliability, and whether the solution is genuinely useful.
 
 ---
 
-### 📊 GitHub Stats
+## Explore my work
+
+| Resource | What you'll find |
+|---|---|
+| [Portfolio](https://rahhuul.github.io) | Background, experience, and selected projects |
+| [GitHub repositories](https://github.com/rahhuul?tab=repositories) | Open-source projects and engineering experiments |
+| [APILens](https://apilens.rest) | API observability product |
+| [CMS MCP Hub](https://github.com/rahhuul/cms-mcp-hub) | Open-source MCP servers for CMS platforms |
+| [npm package](https://www.npmjs.com/package/auto-api-observe) | API observability middleware |
+
+---
+
+## Let's connect
+
+I'm interested in meaningful engineering challenges, developer tools, SaaS products, and collaborations where thoughtful engineering creates measurable value.
+
+- 🌐 **Portfolio:** https://rahhuul.github.io
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rahhuul/
+- 📦 **Open source:** https://github.com/rahhuul?tab=repositories
+- ✉️ **Email:** hello@hiredev.net
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahhuul&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahhuul&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <strong>Building useful software. Sharing what I learn. Improving one system at a time.</strong>
 </p>
-
----
-
-### 📫 Let's Connect
-
-I'm currently **open to remote full-time roles and freelance projects**.
-Feel free to reach out I reply fast! 🚀
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahhuul)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/rahhuul)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rahhuul310)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://rahhuul.github.io)
